@@ -1,0 +1,121 @@
+.desktop {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .overlap-wrapper {
+    background-color: #000000;
+    overflow: hidden;
+    width: 1370px;
+    height: 1036px;
+  }
+  
+  .desktop .overlap {
+    position: relative;
+    width: 1636px;
+    height: 1416px;
+    top: -11px;
+    left: -96px;
+  }
+  
+  .desktop .frame {
+    position: absolute;
+    width: 1636px;
+    height: 1416px;
+    top: 0;
+    left: 0;
+  }
+  
+  .desktop .div-wrapper {
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    top: 9px;
+    left: 10px;
+    font-family: "Karantina-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .img {
+    position: absolute;
+    width: 1370px;
+    height: 987px;
+    top: 60px;
+    left: 96px;
+  }
+  
+  .desktop .overlap-group-wrapper {
+    position: absolute;
+    width: 1576px;
+    height: 1346px;
+    top: 60px;
+    left: 10px;
+  }
+  
+  .desktop .overlap-group {
+    position: relative;
+    width: 1370px;
+    height: 987px;
+    left: 86px;
+    background-image: url(./img/rectangle-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .desktop .div {
+    position: absolute;
+    top: 867px;
+    left: 54px;
+    font-family: "Karantina-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle {
+    top: 135px;
+    left: 998px;
+    position: absolute;
+    width: 360px;
+    height: 776px;
+    background-color: #000000;
+    border-radius: 50px;
+  }
+  
+  .desktop .rectangle-2 {
+    top: 133px;
+    left: 204px;
+    position: absolute;
+    width: 360px;
+    height: 776px;
+    background-color: #000000;
+    border-radius: 50px;
+  }
+  
+  .desktop .rectangle-3 {
+    top: 135px;
+    left: 601px;
+    position: absolute;
+    width: 360px;
+    height: 776px;
+    background-color: #000000;
+    border-radius: 50px;
+  }
+  

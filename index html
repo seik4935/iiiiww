@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="desktop">
+      <div class="overlap-wrapper">
+        <div class="overlap">
+          <div class="text">
+            <div class="overlap-group">
+              <div class="rectangle"></div>
+              <div class="frame"><div class="text-wrapper">HELLO</div></div>
+              <div class="div-wrapper"><div class="div">sign in</div></div>
+              <div class="frame-2"><div class="text-wrapper-2">let”s see videos!</div></div>
+              <div class="aminput-dont-rename-wrapper">
+                <div class="aminput-dont-rename">
+                  <div class="focus-frame"></div>
+                  <div class="text-2"></div>
+                  <div class="placeholder">Enter your value</div>
+                  <div class="caret-indicator"></div>
+                </div>
+              </div>
+              <div class="overlap-group-wrapper">
+                <div class="overlap-group-2">
+                  <div class="frame-wrapper"><div class="frame-3"></div></div>
+                  <div class="frame-wrapper"><div class="frame-4"></div></div>
+                </div>
+              </div>
+              <div class="frame-5">
+                <div class="aminput-dont-rename">
+                  <div class="focus-frame"></div>
+                  <div class="text-2"></div>
+                  <div class="placeholder">Enter your value</div>
+                  <div class="caret-indicator"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="desktop">
+      <div class="overlap-wrapper">
+        <div class="overlap">
+          <div class="frame">
+            <div class="div-wrapper"><div class="text-wrapper">password</div></div>
+            <img class="img" src="img/frame-8.svg" />
+          </div>
+          <div class="frame">
+            <div class="div-wrapper"><div class="text-wrapper">password</div></div>
+            <div class="overlap-group-wrapper">
+              <div class="overlap-group"><div class="div">BACK</div></div>
+            </div>
+          </div>
+          <div class="rectangle"></div>
+          <div class="rectangle-2"></div>
+          <div class="rectangle-3"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
